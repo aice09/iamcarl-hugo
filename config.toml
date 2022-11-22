@@ -93,11 +93,32 @@ weight = 4
     name = "twitter"
     link = "https://twitter.com/AiceCarl"
   [[params.social]]
+    name = "facebook"
+    link = "https://www.facebook.com/aice0927/"
+  [[params.social]]
+    name = "instagram"
+    link = "https://www.instagram.com/aice0927/"
+  [[params.social]]
     name = "stack-overflow"
-    link = "https://stackoverflow.com/users/7299528/carl-angelo-nievarez?tab=profile"  
+    link = "https://stackoverflow.com/users/7299528/carl-angelo-nievarez?tab=profile"
+  [[params.social]]
+    name = "dev"
+    link = "https://dev.to/aice09" 
+  [[params.social]]
+    name = "discord"
+    link = "https://discord.gg/8p9JdUeZUx" 
+  [[params.social]]
+    name = "medium"
+    link = "https://discord.gg/8p9JdUeZUx" 
   [[params.social]]
     name = "linkedin"
     link = "https://www.linkedin.com/in/aice0927/"
+  [[params.social]]
+    name = "gitlab"
+    link = "https://gitlab.com/aice0927"
+  [[params.social]]
+    name = "bitbucket"
+    link = "https://bitbucket.org/aice0927/"    
   [[params.social]]
     name = "email"
     link = "nievarez.carlangelo@gmail.com"  # no need for "mailto:" in the head
