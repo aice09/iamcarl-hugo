@@ -1,6 +1,6 @@
 ---
 title: introvert
-date: 2022-11-30 20:04:00
+date: 2022-11-30 09:00:00
 tags:
   - life
 category: notes
